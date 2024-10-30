@@ -1,2 +1,3 @@
-# kristinvo_phpcrudecrud
+# Example LMAP Stack Application
+# PHP Crude CRUD App
 INET 4031 System Admin Sample Dynamic Web Application Code
